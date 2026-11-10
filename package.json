@@ -1,0 +1,17 @@
+{
+  "name": "yukiiii",
+  "version": "1.0.0",
+  "description": "Yukiiii - Minecraft grind bot (mineflayer)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "minecraft-data": "^3.80.0",
+    "mineflayer": "^4.27.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "vec3": "^0.1.10",
+    "dotenv": "^16.4.7"
+  }
+}
